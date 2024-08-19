@@ -35,8 +35,12 @@ def list_fruits():
             "number": 3,
         },
         {
-            "name": service_username,
+            "name": "Kiwi",
             "number": 4,
+        },
+        {
+            "name": service_username,
+            "number": 5,
         },
     ]
     for f in data:
